@@ -1,1 +1,0 @@
-# Student-QR-Code-Generator

@@ -1,0 +1,5 @@
+Import tkinter
+Import qrcode
+# USE PIP COMMAND TO INSTALL 
+1. PIP INSTALL QRCODE
+2. PIP INSTALL PILLOW
